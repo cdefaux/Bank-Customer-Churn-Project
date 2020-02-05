@@ -1,2 +1,3 @@
 # Bank Customer Churn Project
-Repository for Module 5 Project (classification)
+
+This project analyzes data from banks across Europe; in particular in Germany, France and Spain.
