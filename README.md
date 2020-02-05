@@ -21,3 +21,4 @@ Features in this dataset are as follows:
 - Is Active Member - Binary yes/no whether the customer is an active member with the bank
 - Estimated Salary - Customer salary estimate in USD$
 - Exited - Target Variable - Binary Yes/No if customer left bank
+
