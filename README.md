@@ -8,16 +8,16 @@ This project aims to use classification and regression algorithms to determine w
 
 Features in this dataset are as follows:
 
-Customer ID - arbitrary customer identifier
-Surname - Last name of the customer
-Credit Score - Customer Credit Score
-Geography - Customer locations (France, Spain, Germany)
-Gender - Male/Female
-Age - Customer age
-Tenure - Number of years with bank
-Balance - Current customer balance
-Number of Products - Number of bank products per customer
-Has Credit Card - Binary yes/no if customer has credit card
-Is Active Member - Binary yes/no whether the customer is an active member with the bank
-Estimated Salary - Customer salary estimate in USD$
-Exited - Target Variable - Binary Yes/No if customer left bank
+- Customer ID - arbitrary customer identifier
+- Surname - Last name of the customer
+- Credit Score - Customer Credit Score
+- Geography - Customer locations (France, Spain, Germany)
+- Gender - Male/Female
+- Age - Customer age
+- Tenure - Number of years with bank
+- Balance - Current customer balance
+- Number of Products - Number of bank products per customer
+- Has Credit Card - Binary yes/no if customer has credit card
+- Is Active Member - Binary yes/no whether the customer is an active member with the bank
+- Estimated Salary - Customer salary estimate in USD$
+- Exited - Target Variable - Binary Yes/No if customer left bank
